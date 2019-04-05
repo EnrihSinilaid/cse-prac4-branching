@@ -1,0 +1,4 @@
+1) Master, answers
+2) Branch "index" has been merged into master
+3) There should be in total 16 commits
+4) Commits that belong to branch package are "Added package", "Added locked package" and "Removed lock"
